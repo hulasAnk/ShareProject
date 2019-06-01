@@ -1,0 +1,9 @@
+C:\MyProjects\NetApp\FindNumber\FindNumber\bin\Debug\FindNumber.exe
+C:\MyProjects\NetApp\FindNumber\FindNumber\bin\Debug\FindNumber.pdb
+C:\MyProjects\NetApp\FindNumber\FindNumber\obj\x86\Debug\FindNumber.AboutForm.resources
+C:\MyProjects\NetApp\FindNumber\FindNumber\obj\x86\Debug\FindNumber.GameRulesForm.resources
+C:\MyProjects\NetApp\FindNumber\FindNumber\obj\x86\Debug\FindNumber.MainForm.resources
+C:\MyProjects\NetApp\FindNumber\FindNumber\obj\x86\Debug\FindNumber.Properties.Resources.resources
+C:\MyProjects\NetApp\FindNumber\FindNumber\obj\x86\Debug\FindNumber.csproj.GenerateResource.Cache
+C:\MyProjects\NetApp\FindNumber\FindNumber\obj\x86\Debug\FindNumber.exe
+C:\MyProjects\NetApp\FindNumber\FindNumber\obj\x86\Debug\FindNumber.pdb
